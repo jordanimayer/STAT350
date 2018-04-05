@@ -1,0 +1,25 @@
+Country	TimeToStart
+Colombia	13
+Namibia	66
+Bhutan	36
+Ghana	12
+United Arab Emirates	8
+"Gambia, The"	27
+Slovenia	6
+Estonia	7
+Senegal	5
+France	7
+Kosovo	52
+West Bank and Gaza	48
+Germany	15
+"Korea, Rep."	7
+Jordan	12
+Timor-Leste	94
+Spain	28
+Netherlands	5
+Burkina Faso	13
+Costa Rica	60
+Hungary	5
+Canada	5
+Barbados	18
+Switzerland	18
